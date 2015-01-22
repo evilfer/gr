@@ -1,4 +1,3 @@
-ls
-compass help
-
+cd css
+compass compile
 
