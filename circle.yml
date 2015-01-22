@@ -1,6 +1,6 @@
 test:
   override:
-    - phpunit tests
+    - phpunit tests/tests
 
 deployment:
   production:
