@@ -1,6 +1,6 @@
 dependencies:
   pre:
-    - sudo gem install breakpoint; sudo gem install compass
+    - gem install compass
     
 test:
   override:
