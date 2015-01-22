@@ -1,2 +1,3 @@
-echo "deploy"
-pwd
+cd ../css
+compass compile
+
