@@ -1,3 +1,7 @@
+dependencies:
+  pre:
+    - gem install breakpoint && gem install compass
+    
 test:
   override:
     - phpunit tests/tests

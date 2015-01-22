@@ -1,1 +1,2 @@
 echo "deploy"
+pwd
