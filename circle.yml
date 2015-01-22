@@ -2,5 +2,5 @@ deployment:
   production:
     branch: master
     commands:
-      - ./deploy_prod.sh
+      - build/deploy_prod.sh
       
