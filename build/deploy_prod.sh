@@ -1,3 +1,2 @@
-cd ../css
+cd css
 compass compile
-
